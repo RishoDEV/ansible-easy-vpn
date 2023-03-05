@@ -20,6 +20,7 @@ wget https://raw.githubusercontent.com/RishoDEV/ansible-easy-vpn/main/bootstrap.
 * Automated and unattended upgrades
 * SSH hardening and public key pair generation (optional, you can also use your own keys)
 * E-mail notifications (using an external SMTP server, e.g. GMail)
+* Wireguard Listening on port 53/udp
 
 ## Requirements
 * A KVM-based VPS (or an AWS EC2 instance) with a dedicated IPv4 address
